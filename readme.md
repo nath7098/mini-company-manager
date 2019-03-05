@@ -4,4 +4,5 @@ This app allows the user to manage a virtual company by  adding, modifying and m
 It also includes a time clockto simulate the employees arrivals and departures in the company. There is a lateness and advanceness tracking so we can manage them properly.
 
 **The 2 apps communicate via TCP and if no communication is available between them there is an offset feature using serilization files.**
-\There might fue bugs
+
+:warning: There might fue bugs
